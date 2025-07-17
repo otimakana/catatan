@@ -1,0 +1,8 @@
+//Filament-Shield
+
+1. composer require bezhansalleh/filament-shield
+2. php artisan vendor:publish --tag="filament-shield-config"
+3. php artisan shield:setup
+4. php artisan shield:install admin
+5. //memilih super admin untuk user 1 
+    php artisan shield:super-admin --user=1
