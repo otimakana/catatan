@@ -1,0 +1,6 @@
+composer required
+composer require maatwebsite/excel
+composer require z3d0x/filament-import
+composer config -g repos.packagist composer https://mirrors.cloud.tencent.com/composer
+composer require spatie/simple-excel
+
